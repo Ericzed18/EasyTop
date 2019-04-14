@@ -116,7 +116,7 @@
 
         <meta-data
             android:name="com.baidu.lbsapi.API_KEY"
-            android:value="uglVkqR9FhWpqZ3ndUPgCFzPzELKvUhu" /> <!-- *************************************百度地图配置 End**************************************** -->
+            android:value="3Bqr21Uv3crQRBYmGlujBrghnwFp0Kej" /> <!-- *************************************百度地图配置 End**************************************** -->
         <activity android:name=".PersonalCenter.Photo.UpdateNicnameActivity"
             android:screenOrientation="portrait"/>
         <activity android:name=".LoginOrRegister.UpdatePaswordActivity"
